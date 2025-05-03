@@ -1,0 +1,6 @@
+Region Statistics
+=======================================
+
+Total regions detected: 0
+
+No regions detected above the threshold.

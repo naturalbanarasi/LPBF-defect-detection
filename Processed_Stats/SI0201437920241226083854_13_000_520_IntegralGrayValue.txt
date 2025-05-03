@@ -1,0 +1,22 @@
+Region Statistics
+=======================================
+
+Total regions detected: 3
+
+Region details:
+---------------------------------------
+Region 1:
+  Mean value: 43386.66
+  Variance: 28970167.25
+  Area (pixels): 343
+---------------------------------------
+Region 2:
+  Mean value: 41837.80
+  Variance: 12280533.49
+  Area (pixels): 15
+---------------------------------------
+Region 3:
+  Mean value: 40368.84
+  Variance: 25352370.65
+  Area (pixels): 295
+---------------------------------------
